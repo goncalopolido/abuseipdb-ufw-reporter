@@ -43,7 +43,7 @@ chmod +x abuseipdb.sh
 
 ## Systemd Service (Run in Background)
 
-If you want the utility to run automatically in the background, create `/etc/systemd/system/abuseipdb.service` with the following content. Replace `/path/to/abuseipdb-ufw-reporter` with the correct path on your system.
+If you want the script to run automatically in the background, create `/etc/systemd/system/abuseipdb.service` with the following content. Replace `/path/to/abuseipdb-ufw-reporter` with the correct path on your system.
 
 ```ini
 [Unit]
