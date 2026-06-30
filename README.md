@@ -1,6 +1,6 @@
 # abuseipdb-ufw-reporter
 
-A UFW monitoring and AbuseIPDB reporting utility.
+A UFW monitoring and AbuseIPDB reporting script.
 
 <a href="https://www.abuseipdb.com/user/147005">
   <img
