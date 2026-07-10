@@ -20,7 +20,7 @@ A lightweight Bash script that monitors UFW firewall blocks and automatically re
 - In-memory tracking system to prevent duplicate reports
 - Hostname identification in AbuseIPDB comments
 - Lightweight Bash implementation
-- Optional systemd service for background executio
+- Optional systemd service for background execution
 
 ## UFW Setup
 
