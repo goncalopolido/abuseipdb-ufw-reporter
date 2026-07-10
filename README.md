@@ -197,7 +197,7 @@ More information about account upgrades and supporter status can be found throug
 
 ## AbuseIPDB Contributor Badge
 
-You can get your AbuseIPDB contributor badge [here](https://www.abuseipdb.com/account/contributor).
+You can get your AbuseIPDB contributor badge [**here**](https://www.abuseipdb.com/account/contributor).
 
 It displays the total number of distinct IP addresses you have reported and can be shown on your website, project, or any other public page to showcase your contributions.
 
