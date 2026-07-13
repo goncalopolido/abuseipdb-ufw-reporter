@@ -192,9 +192,6 @@ If you need more than the default 1,000 daily requests, you can increase your ac
 
 More information about account upgrades and supporter status can be found through AbuseIPDB's official channels.
 
-> [!TIP]
-> If your server receives a large number of attacks, verifying your website or becoming an AbuseIPDB supporter can significantly increase your daily API request limit.
-
 ## AbuseIPDB Contributor Badge
 
 You can get your AbuseIPDB contributor badge [**here**](https://www.abuseipdb.com/account/contributor).
